@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">colorGuide</string>
+    <string name="hint_email">email</string>
+    <string name="hint_password">password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="load_image">load image</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="update">Update</string>
+</resources>

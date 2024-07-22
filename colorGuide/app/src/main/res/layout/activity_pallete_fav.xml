@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".palleteFav"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="@dimen/common_padding_default"
+    android:background="@color/backgroundColor">
+
+    <TextView
+        android:id="@+id/tvnameP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="36dp"
+        android:textColor="@color/white"
+        android:layout_marginTop="@dimen/common_padding_default"/>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/common_padding_min"/>
+
+
+    <ImageView
+        android:id="@+id/ivImageP"
+        android:layout_width="240dp"
+        android:layout_height="160dp"
+        app:srcCompat="@drawable/ayaya"/>
+
+    <TextView
+        android:layout_marginTop="30dp"
+        android:id="@+id/txtPVibrant"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:paddingTop="2dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/txtPMuted"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:paddingTop="2dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/txtPDominant"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:paddingTop="2dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/txtPDarkMuted"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:paddingTop="2dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/txtPDarkVibrant"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:paddingTop="2dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="20dp"/>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/common_padding_default">
+
+        <Button
+            android:id="@+id/btnSaveFavorite"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="136dp"
+            android:text="Add Fav"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>
+

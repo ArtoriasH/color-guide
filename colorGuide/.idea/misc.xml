@@ -1,0 +1,27 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/humbe/AndroidStudioProjects/colorGuide/app/src/main/res/drawable/ic_profileicon.xml" value="0.472" />
+        <entry key="..\:/Users/humbe/AndroidStudioProjects/colorGuide/app/src/main/res/layout/activity_create_palette.xml" value="0.4547008547008547" />
+        <entry key="..\:/Users/humbe/AndroidStudioProjects/colorGuide/app/src/main/res/layout/activity_home.xml" value="0.4547008547008547" />
+        <entry key="..\:/Users/humbe/AndroidStudioProjects/colorGuide/app/src/main/res/layout/activity_main.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/humbe/AndroidStudioProjects/colorGuide/app/src/main/res/layout/activity_palette_collection.xml" value="0.5" />
+        <entry key="..\:/Users/humbe/AndroidStudioProjects/colorGuide/app/src/main/res/layout/activity_profile.xml" value="0.4547008547008547" />
+        <entry key="..\:/Users/humbe/AndroidStudioProjects/colorGuide/app/src/main/res/layout/activity_prueba_color.xml" value="0.5" />
+        <entry key="..\:/Users/humbe/AndroidStudioProjects/colorGuide/app/src/main/res/layout/activity_sign_up.xml" value="0.5" />
+        <entry key="..\:/Users/humbe/AndroidStudioProjects/colorGuide/app/src/main/res/layout/app_bar_main.xml" value="0.4547008547008547" />
+        <entry key="..\:/Users/humbe/AndroidStudioProjects/colorGuide/app/src/main/res/layout/card_layout.xml" value="0.4547008547008547" />
+        <entry key="..\:/Users/humbe/AndroidStudioProjects/colorGuide/app/src/main/res/layout/list_element.xml" value="0.4547008547008547" />
+        <entry key="..\:/Users/humbe/AndroidStudioProjects/colorGuide/app/src/main/res/layout/nav_header_main.xml" value="0.4547008547008547" />
+        <entry key="..\:/Users/humbe/AndroidStudioProjects/colorGuide/app/src/main/res/menu/activity_main_drawer.xml" value="0.4547008547008547" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
